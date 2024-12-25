@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Roboto", serif;
+}
+.container{
+    margin: 0 auto;
+
+    padding: 0 95px;
+}
+.header{
+    width: 1440px;
+    background-color: #F3D7B7;
+}
+.header-content{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-content_text h1{
+    width: 447px;
+    height: 150px; 
+    font-size: 64px;
+    font-weight: 700;  
+}
+.header-content_text p{
+    width: 464px;
+    height: 72px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 70px;
+    margin-bottom: 90px;
+}
+.header-content_text button{
+    width: 193px;
+    height: 51px;
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    background-color: #0A775F;
+    border-radius: 30px 30px;  
+    color: #ffffff;  
+    padding: 10px 20px;   
+    text-decoration: none;
+    border: none;
+}
+.header-content_text{
+    width: 449px;
+}
+.header-content_img{
+    position: relative;
+}
+.img{
+    display: flex;
+    position: relative;
+    bottom: -70px;
+    right: -95px;
+}
+.imgi{
+    padding: 120px;
+}
+.krug{
+    position: absolute;
+    z-index: 2;
+}
+.vr{
+    width: 513px;
+    height: 66px;
+    font-size: 20px;
+    font-weight: 400; 
+}
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px;
+}
+.nav ul{
+    display: flex;
+    gap: 40px;
+}
+.nav ul li{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.59px;
+}
+.about{
+    color: black;
+}
+.Create{
+    color: white;
+}
+.ouri{
+    text-align: center;
+    padding: 108px;
+}
+.our{
+    width: 1440px;
+}
+.our h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.kartochka{
+    width: 864px;
+    height: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:0 auto;
+    gap: 64px;
+}
+.kartochka_text h3{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 56.25px;
+    color: #333333;
+
+}
+.kartochka_text p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.59px;
+    color: #333333;
+}
+.kartochka img{
+    width: 451.25px;
+    height: 375px;
+}
+.footer{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 123px;
+    background-color: #F3D7B7;
+}
+.media{
+    display: flex;
+    gap: 30px;
+}
+.media img{
+    width: 30px;
+    height: 30px;
+}
+.commitment{
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 160px;
+    display: flex;
+}
+.commitment-text{
+    width: 646.39px;
+}
+.commitment-text h2{
+    font-size: 48px;
+    font-weight: 700; 
+    padding: 64px;
+    text-align: end;   
+}
+.commitment-text p{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 400; 
+    padding: 64px;  
+    text-align: end;
+}
+.Sorry{
+    padding: 66px;
+    color: white;
+}
+.headeri{
+    width: 1440px;
+    height: 510px;    
+    background-color: #C99B67;
+}
+.header-content_tex h1{
+    width: 447px;
+    height: 150px; 
+    font-size: 64px;
+    font-weight: 700; 
+    color: white; 
+}
+.header-content_tex p{
+    width: 464px;
+    height: 72px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 70px;
+    margin-bottom: 90px;
+    color: white;
+}
+.im{
+    width: 566px;
+    height: 552px;  
+    display: flex;
+    position: relative;
+    bottom: 70px;
+    right: -54px;
+}
